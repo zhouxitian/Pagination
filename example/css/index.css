@@ -1,0 +1,12 @@
+@charset "utf-8";
+body{font-size:12px; font-family:"Microsoft Yahei",Arial,Helvetica,sans-serif,"宋体";-webkit-text-size-adjust:none;}
+a{ text-decoration:none; }
+ul,li,p,h1,h2,h3,h4,h5,dl,dt,dd,body{ padding:0; margin:0;}
+ul,li{ list-style:none;}
+img{border:0;}
+input{ margin:0; padding:0; border-radius:0; border:0;}
+
+.content{height:390px;overflow:hidden;}
+.content ul{max-width:800px;margin:0 auto;overflow:hidden; text-align:center;}
+.content ul li{width:30%;margin:5% auto;}
+.content ul li img{width:100%;}
