@@ -67,5 +67,5 @@ var page=new RWT.Tool.Pagination("page2",{
 			}
 		});
 	}
-});
+}); 
 ```
